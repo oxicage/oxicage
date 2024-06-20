@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oxicage
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning everything i can about coding
+- 🌱 I’m currently learning everything about coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me oxicage@gmail.com
 
